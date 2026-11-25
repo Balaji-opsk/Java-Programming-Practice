@@ -1,0 +1,11 @@
+
+Next, you need to create your JAVA_HOME environment variable that a lot of tools
+expect to be set. To do this, open the System Properties dialog where you can edit
+environment variables. This dialog is hidden fairly well on modern Windows operating
+systems, but can be reliably accessed via the Run dialog by pressing Windows+R and
+entering sysdm.cpl
+
+sysdm.cpl
+
+Once the System Properties dialog is open, select the Advanced tab
+
